@@ -14,4 +14,4 @@ The final section provides a theoretical analysis of adversarial machine learnin
 
 ## Technologies
 
-Python · TensorFlow / Keras · Scikit-learn · XGBoost · NumPy · HDF5
+Python · TensorFlow / Keras · Scikit-learn · XGBoost · NumPy
